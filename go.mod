@@ -20,11 +20,11 @@ require (
 	golang.org/x/exp v0.0.0-20220104160115-025e73f80486
 	golang.org/x/exp/typeparams v0.0.0-20220713135740-79cabaa25d75 // indirect
 	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/sys v0.3.0
-	golang.org/x/text v0.4.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.80.0
@@ -216,7 +216,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.0.0-RC3
 	go.opentelemetry.io/otel/trace v1.0.0-RC3
 	golang.org/x/perf v0.0.0-20180704124530-6e6d33e29852
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/term v0.5.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	honnef.co/go/tools v0.3.2
